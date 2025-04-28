@@ -22,8 +22,8 @@ Este proyecto presenta un conjunto de scripts de **procesamiento de imágenes** 
 
 ```bash
 # Clonar el repositorio
-$ git clone https://github.com/tu_usuario/tu_repositorio.git
-$ cd tu_repositorio
+$ https://github.com/DiegoCuaycal/image-quality-analysis.git
+$ cd image-quality-analysis
 
 # Instalar dependencias
 $ pip install -r requirements.txt
