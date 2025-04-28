@@ -70,9 +70,4 @@ python dibujar.py
 - Cálculo de propiedades geométricas (bounding box, centroide, orientación).
 - Evaluación estadística de calidad de imágenes basada en métricas objetivas.
 
-## 📄 Licencia
 
-Este proyecto se encuentra bajo la licencia MIT.  
-Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
